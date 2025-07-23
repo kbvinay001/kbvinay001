@@ -14,6 +14,6 @@ creating a version of ardupilot for drone control
 ✅ Robotics Process Optimization
 ✅ Industrial automation
 ✅ Machine Learning Projects using YOLO
-- 📫 How to reach me: email:kbhaskarvinay@gmail.com  Instagram:k.bhaskar vinay
+- 📫 How to reach me: email:kbhaskarvinay@gmail.com  Instagram:k.bhaskar vinay LinkedIn: http://linkedin.com/in/bhaskar-vinay-6805b42b8
 - 😄 Pronouns: he/him 
 
