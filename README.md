@@ -1,11 +1,9 @@
 
 
 # Hi there, I'm Bhaskar Vinay Kamuju 👋
-
-\<a href="mailto:kbhaskarvinay@gmail.com"\>\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"/\>\</a\>
-\<a href="[http://linkedin.com/in/bhaskar-vinay-6805b42b8](http://linkedin.com/in/bhaskar-vinay-6805b42b8)"\>\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"/\>\</a\>
-\<a href="[https://github.com/your-username](https://www.google.com/search?q=https://github.com/your-username)"\>\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite)" alt="GitHub"/\>\</a\>
-
+<a href="mailto:kbhaskarvinay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="http://linkedin.com/in/bhaskar-vinay-6805b42b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 I am an aspiring AI and Robotics engineer with a passion for developing intelligent systems and automation solutions. I thrive on building hands-on projects, from autonomous drones to smart IoT devices, and I am constantly exploring new ways to apply machine learning to solve real-world challenges.
 
   * [cite\_start]🎓 I'm currently pursuing a Bachelor of Engineering in **Computer Science and Engineering with a specialization in AI and Robotics** at Sathyabama Institute of Science And Technology[cite: 6, 8].
@@ -29,7 +27,6 @@ I am an aspiring AI and Robotics engineer with a passion for developing intellig
 
   * [cite\_start]YOLO [cite: 23]
   * [cite\_start]TensorFlow [cite: 23]
-  * [cite\_start]Langchain [cite: 29]
   * [cite\_start]ROS [cite: 25]
 
 **Databases:**
