@@ -8,14 +8,14 @@
 
 I am an aspiring AI and Robotics engineer with a passion for developing intelligent systems and automation solutions. I thrive on building hands-on projects, from autonomous drones to smart IoT devices, and I am constantly exploring new ways to apply machine learning to solve real-world challenges.
 
-  * [cite\_start]🎓 I'm currently pursuing a Bachelor of Engineering in **Computer Science and Engineering with a specialization in AI and Robotics** at Sathyabama Institute of Science And Technology[cite: 6, 8].
-  * [cite\_start]🔧 I am currently working as an **ML Engineer at Heuristers Technology Solutions LLP** [cite: 12] [cite\_start]and developing autonomous drone systems using Python, ROS, and computer vision[cite: 21, 25, 26].
+  * 🎓 I'm currently pursuing a Bachelor of Engineering in **Computer Science and Engineering with a specialization in AI and Robotics** at Sathyabama Institute of Science And Technology.
+  * 🔧 I am currently working as an **ML Engineer at Heuristers Technology Solutions LLP** [cite: 12] [cite\_start]and developing autonomous drone systems using Python, ROS, and computer vision.
   * 🌱 I am focused on deepening my skills in SQL, PLC Programming, and best practices for deploying ROS nodes.
   * 👯 I’m actively looking to collaborate on projects involving:
       * Autonomous UAV Systems & Drone Control (ArduPilot)
       * Robotics Process Optimization
       * Industrial Automation
-      * [cite\_start]Object Detection projects using the YOLO algorithm [cite: 15]
+      * Object Detection projects using the YOLO algorithm.
 
 -----
 
@@ -23,40 +23,40 @@ I am an aspiring AI and Robotics engineer with a passion for developing intellig
 
 **Programming Languages:**
 
-  * [cite\_start]Python [cite: 22]
+  * Python
 
 **Libraries & Frameworks:**
 
-  * [cite\_start]YOLO [cite: 23]
-  * [cite\_start]TensorFlow [cite: 23]
-  * [cite\_start]ROS [cite: 25]
+  * YOLO 
+  * TensorFlow
+  * ROS
 
 **Databases:**
 
-  * [cite\_start]SQL [cite: 24]
+  * SQL
 
 **Tools & Platforms:**
 
-  * [cite\_start]GitHub [cite: 24]
-  * [cite\_start]Google Colab [cite: 24]
-  * [cite\_start]Arduino & Raspberry Pi [cite: 24, 25]
-  * [cite\_start]ESP 8266 [cite: 34]
-  * [cite\_start]Pixhawk [cite: 25]
-  * [cite\_start]LM Studio [cite: 29]
+  * GitHub
+  * Google Colab 
+  * Arduino & Raspberry Pi
+  * ESP 8266
+  * Pixhawk 
+  * LM Studio 
 
 -----
 
 ### 💼 Professional Experience
 
-[cite\_start]**ML Engineer** - *Heuristers Technology Solutions LLP* [cite: 12]
-[cite\_start](April 2025 - Present) [cite: 14]
+**ML Engineer** - *Heuristers Technology Solutions LLP* 
+(March 2023 - May 2023)
 
-[cite\_start]**Immersive Technology Intern** - *Cavin Infotech* [cite: 13]
-[cite\_start](March 2023 - May 2023) [cite: 14]
+**Immersive Technology Intern** - *Cavin Infotech* 
+(April 2025 - Present) 
 
-  * [cite\_start]Worked on computer vision projects focusing on object counting and detection using the YOLO algorithm[cite: 15].
-  * [cite\_start]Gained hands-on experience developing and implementing models to accurately identify and count objects in various datasets[cite: 16].
-  * [cite\_start]Collaborated with the team to optimize YOLO for real-time applications and effectively preprocess data[cite: 17].
+  * Worked on computer vision projects focusing on object counting and detection using the YOLO algorithm.
+  * Gained hands-on experience developing and implementing models to accurately identify and count objects in various datasets.
+  * Collaborated with the team to optimize YOLO for real-time applications and effectively preprocess data.
 
 -----
 
@@ -64,22 +64,22 @@ I am an aspiring AI and Robotics engineer with a passion for developing intellig
 
 **1. Autonomous Drone**
 
-  * [cite\_start]An autonomous drone built for obstacle avoidance, surveillance, and object identification using AI algorithms and sensor integration[cite: 26, 27].
-  * [cite\_start]**Technologies Used:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini[cite: 25].
+  * An autonomous drone built for obstacle avoidance, surveillance, and object identification using AI algorithms and sensor integration.
+  * **Technologies Used:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.
 
 **2. Conversational Chatbots**
 
-  * [cite\_start]Developed multiple chatbots, including one with system and Google access using models from LM Studio [cite: 30, 31][cite\_start], and a college query bot using IBM Watsonx[cite: 32].
-  * [cite\_start]**Technologies Used:** LM Studio, Langchain, IBM Watsonx[cite: 29, 32].
+  * Developed multiple chatbots, including one with system and Google access using models from LM Studio, and a college query bot using IBM Watsonx.
+  * **Technologies Used:** LM Studio, Langchain, IBM Watsonx.
 
 **3. IoT Smart Car**
 
-  * [cite\_start]An IoT-based robotic vehicle controlled over Wi-Fi, ideal for learning about IoT, robotics, and programming[cite: 35, 37].
-  * [cite\_start]**Technologies Used:** ESP8266, L298N motor driver[cite: 34, 35].
+  * An IoT-based robotic vehicle controlled over Wi-Fi, ideal for learning about IoT, robotics, and programming.
+  * **Technologies Used:** ESP8266, L298N motor driver.
 
 -----
 
 ### 🏆 Honors & Awards
 
-  * [cite\_start]**Top 10 Finalist** in Aerothon 2024[cite: 46].
-  * [cite\_start]Achieved **2nd Place** in a college-level drone competition[cite: 47].
+  * **Top 10 Finalist** in Aerothon 2024.
+  * Achieved **2nd Place** in a college-level drone competition.
