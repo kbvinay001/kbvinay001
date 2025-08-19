@@ -17,6 +17,8 @@
 
 #### 📦 Databases  
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?&style=flat&logo=sqlite&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)  
 
 #### 🔩 Hardware & Embedded  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=flat&logo=arduino&logoColor=white)  
@@ -33,13 +35,13 @@
 
 ### 💼 Professional Experience  
 
-**🚀 ML Engineer** - *Heuristers Technology Solutions LLP*  
-📅 March 2023 - May 2023  
+**ML Engineer** - *Heuristers Technology Solutions LLP*  
+March 2023 - May 2023  
 - Developed autonomous drone systems using **Python, ROS, and Computer Vision**.  
 - Worked on object detection pipelines with **YOLO**.  
 
-**🧑‍💻 Immersive Technology Intern** - *Cavin Infotech*  
-📅 April 2025 - Present  
+**Immersive Technology Intern** - *Cavin Infotech*  
+April 2025 - Present  
 - Built computer vision solutions for object counting and detection.  
 - Optimized YOLO for **real-time applications**.  
 
@@ -48,24 +50,23 @@
 ### 🚀 Key Projects  
 
 **1. Autonomous Drone**  
-🛸 Obstacle avoidance, surveillance & object identification.  
+   Obstacle avoidance, surveillance & object identification.  
 **Tech:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.  
 
 **2. Conversational Chatbots**  
-💬 Built chatbots (system-level + Google API + college query bot).  
+  Built chatbots (system-level + Google API + college query bot).  
 **Tech:** LM Studio, Langchain, IBM Watsonx.  
-
-**3. IoT Smart Car**  
-🚗 Wi-Fi controlled IoT robotic car.  
-**Tech:** ESP8266, L298N Motor Driver.  
 
 ---
 
 ### 🏆 Honors & Awards  
-- 🥇 **Top 10 Finalist** - Aerothon 2024  
+
+- **Top 15 Finalist** – Aerothon 2024  
+   Participated as a **team of 10** competing against **89 teams** and secured a place in the **finals**.  
 - 🥈 **2nd Place** - College Drone Competition  
 
 ---
+
 
 ### 🔗 Let's Connect  
 
@@ -77,4 +78,4 @@
 
 ### 🤖 Fun Fact  
 > I love building **autonomous systems** that bridge AI with real-world robotics.  
-> Whether it’s a **drone, chatbot, or IoT car** – I aim to make tech more **intelligent and scalable** 🚀  
+> Whether it’s a **drone, chatbot, or vision-based automation system** – I aim to make tech more **intelligent and scalable** 🚀  
