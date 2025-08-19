@@ -49,20 +49,28 @@ April 2025 - Present
 
 ### 🚀 Key Projects  
 
-**1. Autonomous Drone**  
-   Obstacle avoidance, surveillance & object identification.  
+**1. [Autonomous Drone](#)**  
+  Obstacle avoidance, surveillance & object identification.  
 **Tech:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.  
 
-**2. Conversational Chatbots**  
+**2. [Conversational Chatbots](#)**  
   Built chatbots (system-level + Google API + college query bot).  
 **Tech:** LM Studio, Langchain, IBM Watsonx.  
+
+**3. [Industrial Stacklight Identification with Alerts](https://github.com/kbvinay001/Industrial-Stacklight-Identification-with-alerts)**  
+  An AI-based industrial safety monitoring system that identifies **stacklight statuses** and sends **real-time alerts**.  
+**Tech:** Python, OpenCV, YOLO, MQTT, Raspberry Pi.  
+
+**4. [Smart Shopping](https://github.com/kbvinay001/Smart-shopping)**  
+ A computer-vision-based **automated billing** and **product detection** system for smart shopping carts.  
+**Tech:** Python, YOLO, OpenCV, Raspberry Pi.  
 
 ---
 
 ### 🏆 Honors & Awards  
 
 - **Top 15 Finalist** – Aerothon 2024  
-   Participated as a **team of 10** competing against **89 teams** and secured a place in the **finals**.  
+   Participated as a **team of 10**, competed against **89 teams**, and secured a place in the **finals**.  
 -  **2nd Place** - College Drone Competition  
 
 ---
@@ -72,7 +80,7 @@ April 2025 - Present
 
 - 📬 **Email**: [kbhaskarvinay@gmail.com](mailto:kbhaskarvinay@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/bhaskar-vinay-6805b42b8](http://linkedin.com/in/bhaskar-vinay-6805b42b8)  
-- 🌐 **GitHub**: [github.com/BhaskarVinay](https://github.com/BhaskarVinay)  
+- 🌐 **GitHub**: [github.com/kbvinay001](https://github.com/kbvinay001)  
 
 ---
 
