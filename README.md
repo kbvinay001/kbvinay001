@@ -29,7 +29,18 @@
 #### ☁️ Tools & Platforms  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=flat&logo=googlecolab&logoColor=black)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&style=flat&logo=openai&logoColor=white)  
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-4D4DFF.svg?&style=flat)  
+
+#### 📊 Data Science / Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366.svg?&style=flat&logo=plotly&logoColor=white)
+![IBM Watsonx](https://img.shields.io/badge/IBM_Watsonx-054ADA.svg?&style=flat&logo=ibm&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?&style=flat&logo=tableau&logoColor=white)
 
 ---
 
@@ -50,15 +61,15 @@ April 2025 - Present
 ### 🚀 Key Projects  
 
 **1. [Autonomous Drone](#)**  
-  Obstacle avoidance, surveillance & object identification.  
+ Obstacle avoidance, surveillance & object identification.  
 **Tech:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.  
 
 **2. [Conversational Chatbots](#)**  
-  Built chatbots (system-level + Google API + college query bot).  
+ Built chatbots (system-level + Google API + college query bot).  
 **Tech:** LM Studio, Langchain, IBM Watsonx.  
 
 **3. [Industrial Stacklight Identification with Alerts](https://github.com/kbvinay001/Industrial-Stacklight-Identification-with-alerts)**  
-  An AI-based industrial safety monitoring system that identifies **stacklight statuses** and sends **real-time alerts**.  
+ AI-powered industrial monitoring system to **detect stacklight statuses** and send **real-time alerts**.  
 **Tech:** Python, OpenCV, YOLO, MQTT, Raspberry Pi.  
 
 **4. [Smart Shopping](https://github.com/kbvinay001/Smart-shopping)**  
@@ -71,7 +82,7 @@ April 2025 - Present
 
 - **Top 15 Finalist** – Aerothon 2024  
    Participated as a **team of 10**, competed against **89 teams**, and secured a place in the **finals**.  
--  **2nd Place** - College Drone Competition  
+- **2nd Place** - College Drone Competition  
 
 ---
 
