@@ -10,27 +10,16 @@
 ### ⚙️ Tech & Tool Stack
 
 #### 🖥️ Programming & Frameworks  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)  
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?&style=flat&logo=yolo&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white)  
-![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?&style=flat&logo=ros&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?&style=flat&logo=yolo&logoColor=black)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white)  ![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?&style=flat&logo=ros&logoColor=white)  
 
 #### 📦 Databases  
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?&style=flat&logo=sqlite&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?&style=flat&logo=sqlite&logoColor=white)  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000.svg?&style=flat&logo=oracle&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)  
 
 #### 🔩 Hardware & Embedded  
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=flat&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)  
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=espressif&logoColor=white)  
-![Pixhawk](https://img.shields.io/badge/Pixhawk-%23E06F1F.svg?&style=flat&logo=drone&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=flat&logo=arduino&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)  ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=espressif&logoColor=white)  ![Pixhawk](https://img.shields.io/badge/Pixhawk-%23E06F1F.svg?&style=flat&logo=drone&logoColor=white)  
 
 #### ☁️ Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=flat&logo=googlecolab&logoColor=black)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&style=flat&logo=openai&logoColor=white)  
-![LM Studio](https://img.shields.io/badge/LM%20Studio-4D4DFF.svg?&style=flat)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=flat&logo=googlecolab&logoColor=black)  ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?&style=flat&logo=openai&logoColor=white)  ![LM Studio](https://img.shields.io/badge/LM%20Studio-4D4DFF.svg?&style=flat)  
 
 #### 📊 Data Science / Machine Learning  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
