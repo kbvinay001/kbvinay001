@@ -63,7 +63,7 @@ April 2025 - Present
 
 - **Top 15 Finalist** – Aerothon 2024  
    Participated as a **team of 10** competing against **89 teams** and secured a place in the **finals**.  
-- 🥈 **2nd Place** - College Drone Competition  
+-  **2nd Place** - College Drone Competition  
 
 ---
 
