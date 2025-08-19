@@ -1,85 +1,80 @@
+<h1 align="center">Hey 👋, I'm Bhaskar Vinay Kamuju</h1>
+<h3 align="center">🤖 Aspiring AI & Robotics Engineer | ML Developer | IoT & Drone Enthusiast</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&lines=Building+Autonomous+Drones+%26+Robots;Passionate+About+AI+%26+Industrial+Automation;Exploring+IoT+and+Intelligent+Systems;Always+Learning+and+Innovating+🚀" alt="Typing SVG" />
+</div>
 
-# Hi there, I'm Bhaskar Vinay Kamuju 👋
-<a href="mailto:kbhaskarvinay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="http://linkedin.com/in/bhaskar-vinay-6805b42b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+---
 
+### ⚙️ Tech & Tool Stack
 
-I am an aspiring AI and Robotics engineer with a passion for developing intelligent systems and automation solutions. I thrive on building hands-on projects, from autonomous drones to smart IoT devices, and I am constantly exploring new ways to apply machine learning to solve real-world challenges.
+#### 🖥️ Programming & Frameworks  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?&style=flat&logo=yolo&logoColor=black)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white)  
+![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?&style=flat&logo=ros&logoColor=white)  
 
-  * 🎓 I'm currently pursuing a Bachelor of Engineering in **Computer Science and Engineering with a specialization in AI and Robotics** at Sathyabama Institute of Science And Technology.
-  * 🔧 I am currently working as an **ML Engineer at Heuristers Technology Solutions LLP** [cite: 12] [cite\_start]and developing autonomous drone systems using Python, ROS, and computer vision.
-  * 🌱 I am focused on deepening my skills in SQL, PLC Programming, and best practices for deploying ROS nodes.
-  * 👯 I’m actively looking to collaborate on projects involving:
-      * Autonomous UAV Systems & Drone Control (ArduPilot)
-      * Robotics Process Optimization
-      * Industrial Automation
-      * Object Detection projects using the YOLO algorithm.
+#### 📦 Databases  
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?&style=flat&logo=sqlite&logoColor=white)  
 
------
+#### 🔩 Hardware & Embedded  
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=flat&logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)  
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=espressif&logoColor=white)  
+![Pixhawk](https://img.shields.io/badge/Pixhawk-%23E06F1F.svg?&style=flat&logo=drone&logoColor=white)  
 
-### 🛠️ My Tech Stack
+#### ☁️ Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?&style=flat&logo=googlecolab&logoColor=black)  
+![LM Studio](https://img.shields.io/badge/LM%20Studio-4D4DFF.svg?&style=flat)  
 
-**Programming Languages:**
+---
 
-  * Python
+### 💼 Professional Experience  
 
-**Libraries & Frameworks:**
+**🚀 ML Engineer** - *Heuristers Technology Solutions LLP*  
+📅 March 2023 - May 2023  
+- Developed autonomous drone systems using **Python, ROS, and Computer Vision**.  
+- Worked on object detection pipelines with **YOLO**.  
 
-  * YOLO 
-  * TensorFlow
-  * ROS
+**🧑‍💻 Immersive Technology Intern** - *Cavin Infotech*  
+📅 April 2025 - Present  
+- Built computer vision solutions for object counting and detection.  
+- Optimized YOLO for **real-time applications**.  
 
-**Databases:**
+---
 
-  * SQL
+### 🚀 Key Projects  
 
-**Tools & Platforms:**
+**1. Autonomous Drone**  
+🛸 Obstacle avoidance, surveillance & object identification.  
+**Tech:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.  
 
-  * GitHub
-  * Google Colab 
-  * Arduino & Raspberry Pi
-  * ESP 8266
-  * Pixhawk 
-  * LM Studio 
+**2. Conversational Chatbots**  
+💬 Built chatbots (system-level + Google API + college query bot).  
+**Tech:** LM Studio, Langchain, IBM Watsonx.  
 
------
+**3. IoT Smart Car**  
+🚗 Wi-Fi controlled IoT robotic car.  
+**Tech:** ESP8266, L298N Motor Driver.  
 
-### 💼 Professional Experience
+---
 
-**ML Engineer** - *Heuristers Technology Solutions LLP* 
-(March 2023 - May 2023)
+### 🏆 Honors & Awards  
+- 🥇 **Top 10 Finalist** - Aerothon 2024  
+- 🥈 **2nd Place** - College Drone Competition  
 
-**Immersive Technology Intern** - *Cavin Infotech* 
-(April 2025 - Present) 
+---
 
-  * Worked on computer vision projects focusing on object counting and detection using the YOLO algorithm.
-  * Gained hands-on experience developing and implementing models to accurately identify and count objects in various datasets.
-  * Collaborated with the team to optimize YOLO for real-time applications and effectively preprocess data.
+### 🔗 Let's Connect  
 
------
+- 📬 **Email**: [kbhaskarvinay@gmail.com](mailto:kbhaskarvinay@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/bhaskar-vinay-6805b42b8](http://linkedin.com/in/bhaskar-vinay-6805b42b8)  
+- 🌐 **GitHub**: [github.com/BhaskarVinay](https://github.com/BhaskarVinay)  
 
-### 🚀 Key Projects
+---
 
-**1. Autonomous Drone**
-
-  * An autonomous drone built for obstacle avoidance, surveillance, and object identification using AI algorithms and sensor integration.
-  * **Technologies Used:** Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.
-
-**2. Conversational Chatbots**
-
-  * Developed multiple chatbots, including one with system and Google access using models from LM Studio, and a college query bot using IBM Watsonx.
-  * **Technologies Used:** LM Studio, Langchain, IBM Watsonx.
-
-**3. IoT Smart Car**
-
-  * An IoT-based robotic vehicle controlled over Wi-Fi, ideal for learning about IoT, robotics, and programming.
-  * **Technologies Used:** ESP8266, L298N motor driver.
-
------
-
-### 🏆 Honors & Awards
-
-  * **Top 10 Finalist** in Aerothon 2024.
-  * Achieved **2nd Place** in a college-level drone competition.
+### 🤖 Fun Fact  
+> I love building **autonomous systems** that bridge AI with real-world robotics.  
+> Whether it’s a **drone, chatbot, or IoT car** – I aim to make tech more **intelligent and scalable** 🚀  
