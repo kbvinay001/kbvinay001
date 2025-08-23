@@ -47,7 +47,7 @@
 - Worked on object detection pipelines with YOLO.
 
 **Immersive Technology Intern - Cavin Infotech**  
-*April 2025 - Present*  
+*May 2025 - July 2025 *  
 - Built computer vision solutions for object counting and detection.  
 - Optimized YOLO for real-time applications.
 
