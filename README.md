@@ -1,6 +1,6 @@
 # Hey 👋, I'm Bhaskar Vinay Kamuju
 
-### 🤖 Aspiring AI & Robotics Engineer | ML Developer | IoT & Drone Enthusiast
+### 🤖 Aspiring AI & Robotics Engineer | ML Developer | IoT & Robotics Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Aspiring+AI+%26+Robotics+Engineer;Machine+Learning+Developer;IoT+%26+Drone+Enthusiast)
 
@@ -41,46 +41,53 @@
 
 ### 💼 Professional Experience
 
-**ML Engineer - Heuristers Technology Solutions LLP**  
-*March 2023 - May 2023*  
-- Developed autonomous drone systems using Python, ROS, and Computer Vision.  
+**ML Engineer - Heuristers Technology Solutions LLP**  
+*March 2023 - May 2023*  
+- Developed autonomous drone systems using Python, ROS, and Computer Vision.  
 - Worked on object detection pipelines with YOLO.
 
-**Immersive Technology Intern - Cavin Infotech**  
-*May 2025 - July 2025 *  
-- Built computer vision solutions for object counting and detection.  
+**Immersive Technology Intern - Cavin Infotech**  
+*May 2025 - July 2025 *  
+- Built computer vision solutions for object counting and detection.  
 - Optimized YOLO for real-time applications.
 
 ### 🚀 Key Projects
 
-1. **Autonomous Drone**  
-   Obstacle avoidance, surveillance & object identification.  
-   *Tech*: Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.
+1. **Autonomous Drone**  
+   Obstacle avoidance, surveillance & object identification.  
+   *Tech*: Python, YOLO, ROS, Raspberry Pi, Pixhawk 6C mini.
 
-2. **Conversational Chatbots**  
-   Built chatbots (system-level + Google API + college query bot).  
-   *Tech*: LM Studio, Langchain, IBM Watsonx.
+2. **Conversational Chatbots**  
+   Built chatbots (system-level + Google API + college query bot).  
+   *Tech*: LM Studio, Langchain, IBM Watsonx.
 
-3. **[Industrial Stacklight Identification with Alerts](https://github.com/kbvinay001/Industrial-Stacklight-Identification-with-alerts)**  
-   AI-powered industrial monitoring system to detect stacklight statuses and send real-time alerts.  
-   *Tech*: Python, OpenCV, YOLO, MQTT, Raspberry Pi.
+3. **[Industrial Stacklight Identification with Alerts](https://github.com/kbvinay001/Industrial-Stacklight-Identification-with-alerts)**  
+   AI-powered industrial monitoring system to detect stacklight statuses and send real-time alerts.  
+   *Tech*: Python, OpenCV, YOLO, MQTT, Raspberry Pi.
 
-4. **[Smart Shopping](https://github.com/kbvinay001/Smart-shopping)**  
-   A computer-vision-based automated billing and product detection system for smart shopping carts.  
-   *Tech*: Python, YOLO, OpenCV, Raspberry Pi.
+4. **[Smart Shopping](https://github.com/kbvinay001/Smart-shopping)**  
+   A computer-vision-based automated billing and product detection system for smart shopping carts.  
+   *Tech*: Python, YOLO, OpenCV, Raspberry Pi.
 
-5. **[Employee Management System (EMS)](https://github.com/kbvinay001/Employee-Management-System-EMS---Oracle-PL-SQL)**  
-   A comprehensive system for managing employee records, departments, and salaries with automated audit trails and reporting.  
-   *Tech*: Oracle PL/SQL, SQL, Database Triggers, Stored Procedures.
+5. **[Employee Management System (EMS)](https://github.com/kbvinay001/Employee-Management-System-EMS---Oracle-PL-SQL)**  
+   A comprehensive system for managing employee records, departments, and salaries with automated audit trails and reporting.  
+   *Tech*: Oracle PL/SQL, SQL, Database Triggers, Stored Procedures.
+
+6. **[AI Review Detective Advanced Sentiment Fake Review Analyzer](https://github.com/kbvinay001/AI-Review-Detective---Advanced-Sentiment-Fake-Review-Analyzer)**  
+   AI Review Detective analyzes e-commerce reviews using Python in Google Colab.  
+   *Tech*: Python, TextBlob, Pandas, Plotly, WordCloud, Numpy, Matplotlib, Seaborn, Requests, BeautifulSoup4
+
+7. **[AI Retail Intelligence Platform Advanced Customer Segmentation](https://github.com/kbvinay001/AI-Retail-Intelligence-Platform--Advanced-Customer-Segmentation)**  
+   A comprehensive AI-powered retail analytics platform that transforms customer transaction data into actionable business intelligence.  
+   *Tech*: Python, Scikit-Learn, Pandas, Numpy, Plotly, Matplotlib, Seaborn
 
 ### 🏆 Honors & Awards
 
-- **Top 15 Finalist – Aerothon 2024**  
-  Participated as a team of 10, competed against 89 teams, and secured a place in the finals.  
+- **Top 15 Finalist – Aerothon 2024**  
+  Participated as a team of 10, competed against 89 teams, and secured a place in the finals.  
 - **2nd Place - College Drone Competition**
 
 ### 🤖 Fun Fact
 
-I love building autonomous systems that bridge AI with real-world robotics and data management.  
+I love building autonomous systems that bridge AI with real-world robotics and data management.  
 Whether it’s a drone, chatbot, vision-based automation, or database-driven management systems – I aim to make tech more intelligent and scalable 🚀
-
