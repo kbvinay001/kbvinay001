@@ -34,13 +34,9 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 
 ### 👁️ Computer Vision
-![YOLO](https://img.shields.io/badge/-YOLOv8%2Fv9-00FF00?style=flat&logoColor=black)
+![YOLO](https://img.shields.io/badge/-YOLOv11%2Fv9-00FF00?style=flat&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat&logoColor=white)
-![Vision Transformer](https://img.shields.io/badge/-Vision%20Transformer-7B2FBE?style=flat&logoColor=white)
-![RAFT Optical Flow](https://img.shields.io/badge/-RAFT%20Optical%20Flow-1D6E8C?style=flat&logoColor=white)
-![P2P--Net](https://img.shields.io/badge/-P2P--Net%20%7C%20CSRNet-0F6E56?style=flat&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/-Grad--CAM%20XAI-D85A30?style=flat&logoColor=white)
+
 
 ### 🚁 Robotics & Hardware
 ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat)
