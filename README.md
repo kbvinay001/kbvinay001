@@ -94,21 +94,21 @@
 #### 🛸 [Autonomous Drone System](https://github.com/kbvinay001)
 - Full-stack autonomous drone with obstacle avoidance, surveillance, and real-time object identification
 - Integrated YOLOv8 inference with Pixhawk 6C Mini flight controller via ROS
-- **Tech:** Python · YOLO · ROS · Raspberry Pi · Pixhawk 6C Mini · MAVLink
+- **Tech:** Python · YOLOv8 · ROS · Raspberry Pi · Pixhawk 6C Mini · MAVLink
 
 ---
 
 #### 🏭 [Industrial Stacklight Identification with Alerts](https://github.com/kbvinay001/Industrial-Stacklight-Identification-with-alerts)
 - AI-powered industrial monitoring system to detect stacklight statuses (red/amber/green) in real time
 - Sends automated alerts via MQTT to supervisors when abnormal states are detected
-- **Tech:** Python · OpenCV · YOLOv8 · MQTT · Raspberry Pi
+- **Tech:** Python · OpenCV · YOLOv11 · MQTT · Raspberry Pi
 
 ---
 
 #### 🛒 [Smart Shopping — Automated Billing with CV](https://github.com/kbvinay001/Smart-shopping)
 - Computer-vision-based automated billing and product detection system for smart shopping carts
 - Eliminates manual checkout — detects and prices products as they enter the cart
-- **Tech:** Python · YOLOv8 · OpenCV · Raspberry Pi
+- **Tech:** Python  · OpenCV · Raspberry Pi
 
 ---
 
