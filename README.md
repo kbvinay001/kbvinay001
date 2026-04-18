@@ -1,4 +1,4 @@
-# Hey 👋, I'm Bhaskar Vinay Kamuju
+# Hey 👋, I'm KAMUJU BHASKAR VINAY
 
 ### 🤖 Aspiring AI & Robotics Engineer | ML Developer | IoT & Robotics Enthusiast
 
