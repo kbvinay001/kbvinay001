@@ -34,7 +34,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 
 ### 👁️ Computer Vision
-![YOLO](https://img.shields.io/badge/-YOLOv11%2Fv9-00FF00?style=flat&logoColor=black)
+![YOLO](https://img.shields.io/badge/-YOLOv11-00FF00?style=flat&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 
 
