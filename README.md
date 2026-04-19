@@ -155,7 +155,7 @@ Full-stack platform for Indian court case tracking, cause list monitoring, AI-po
 
 - Detects machine state changes and notifies supervisors instantly — zero manual monitoring required
 - Deployed on Raspberry Pi for edge inference with MQTT broker for IoT messaging
-- **Tech:** `Python` `YOLOv8` `OpenCV` `MQTT` `Raspberry Pi`
+- **Tech:** `Python` `YOLOv11` `OpenCV` `MQTT` `Raspberry Pi`
 
 ---
 
