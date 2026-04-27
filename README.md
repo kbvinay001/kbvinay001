@@ -29,9 +29,11 @@
 ### 👁️ Computer Vision & Deep Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![YOLOv11](https://img.shields.io/badge/-YOLOv11%20%7C%20Ultralytics-00FFAA?style=flat&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![YOLOv11](https://img.shields.io/badge/-YOLOv11%20%7C%20Ultralytics-00FFAA?style=flat&logoColor=black)
+![MobileNetV2](https://img.shields.io/badge/-MobileNetV2%20%7C%20Transfer%20Learning-34A853?style=flat&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![Grad-CAM](https://img.shields.io/badge/-Grad--CAM%20Explainability-FF6B35?style=flat&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
 ### 🎧 Multi-modal & Signal Processing
@@ -44,6 +46,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![TFLite INT8](https://img.shields.io/badge/-TFLite%20INT8%20%7C%20Edge%20AI-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipse-mosquitto&logoColor=white&style=flat)
 
@@ -65,6 +68,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)
+![FPDF2](https://img.shields.io/badge/-FPDF2%20%7C%20PDF%20Reports-E74C3C?style=flat&logoColor=white)
 ![TextBlob](https://img.shields.io/badge/-TextBlob%20%7C%20NLP-4A90D9?style=flat&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup4-3DDC84?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white&style=flat)
@@ -147,6 +151,28 @@ Full-stack platform for Indian court case tracking, cause list monitoring, AI-po
 - JWT auth, rate limiting (slowapi), security scanning (bandit) — production-grade backend
 - Playwright E2E test suite + pytest unit tests
 - **Tech:** `FastAPI` `Next.js 14` `React` `TypeScript` `MongoDB` `Redis` `Celery` `Docker` `OpenAI API` `scikit-learn` `BeautifulSoup4` `Tailwind CSS`
+
+---
+
+### ♻️ [GarbageSort AI — Smart Waste Classifier with Edge Deployment](https://github.com/kbvinay001/mobilenetv2-waste-classifier)
+> **Problem:** Global waste mismanagement causes severe environmental damage due to households and industries mixing recyclable, hazardous, and general waste — manual sorting is expensive and error-prone.
+
+Production-ready, edge-optimised 7-class waste classification system combining MobileNetV2 transfer learning with Grad-CAM explainability and TFLite INT8 quantisation for Raspberry Pi deployment.
+
+| Model | Test Accuracy | Model Size | Pi 4 Latency |
+|---|---|---|---|
+| Custom CNN (baseline) | 77.88% | 232.9 MB | ~4000 ms |
+| MobileNetV2 (production) | **93.43%** | 28.7 MB | ~1500 ms |
+| TFLite INT8 (edge) | ~92.9% | **3.1 MB** | **~253 ms** ✓ |
+
+- **Two-phase fine-tuning** — frozen base (15 epochs) → full fine-tune at 10× lower LR (15 epochs); prevents catastrophic forgetting of ImageNet weights
+- **Grad-CAM explainability** — heatmaps showing which spatial regions drove the prediction; toggle-able on low-power hardware
+- **TFLite INT8 quantisation** — 9.3× model compression with <0.5% accuracy loss; latency verified via Edge Impulse on real Cortex-A72 silicon
+- **6-page Streamlit dashboard** — single image, live webcam/RTSP, batch ZIP (up to 50 images), session analytics, CNN vs MobileNetV2 comparison, system info
+- **Automated PDF reports** — per-image Grad-CAM overlay + top-3 predictions + recycling instructions; batch summary with colour-coded status table
+- **Per-class QR recycling guides** — links to authoritative recycling locators for all 7 waste categories
+- FastAPI REST backend + edge CLI supporting tflite-runtime / ai_edge_litert / full TF fallback
+- **Tech:** `Python` `TensorFlow` `MobileNetV2` `Keras` `TFLite INT8` `Grad-CAM` `OpenCV` `Streamlit` `FastAPI` `Plotly` `FPDF2` `Raspberry Pi` `Edge Impulse`
 
 ---
 
